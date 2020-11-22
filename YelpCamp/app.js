@@ -3,7 +3,7 @@ const app = express()
 const path = require('path')
 const Campground = require('./models/campground')
 const methodOverride = require('method-override')
-// testing tortoise
+
 /********************************************************************************* */
 // database config
 const mongoose = require('mongoose')
